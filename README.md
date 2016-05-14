@@ -8,3 +8,4 @@ Not a functional RSSI monitor.
 
 Uses simulated data.
 
+![Alt text](/rssi-monitor.jpg?raw=true "Screenshot")
