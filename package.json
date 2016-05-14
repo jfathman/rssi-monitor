@@ -1,0 +1,22 @@
+{
+  "name": "rssi-monitor",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": ["bluetooth", "rssi", "monitor"],
+  "author": "jfathman",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfathman/rssi-monitor.git"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "lodash": "^4.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.10.1"
+  }
+}
