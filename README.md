@@ -1,11 +1,18 @@
 ## rssi-monitor ##
 
-Bluetooth LE RSSI Monitor
+Experiment with Bluetooth LE RSSI Monitor implemented in Node.js
 
-Experiment with blessings terminal interface library for Node.js.
+  * Not a functional RSSI monitor
+  * Uses simulated data
+  * NATS.io as message bus
+  * Blessed terminal interface
+  * Lodash modular utilities
+  * Node.js v6.1.0
 
-Not a functional RSSI monitor.
+Anticipates
 
-Uses simulated data.
+  * Microservices architecture
+  * Receive Bluetooth beacon info from several devices
+  * Multiple microservices receive and process same beacon data
 
 ![Alt text](/rssi-monitor.jpg?raw=true "Screenshot")
